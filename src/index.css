@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: Trebuchet MS, sans-serif;
+  color: #333;
+
+}
+.home {
+    /*display: flex;
+	text-align: center;
+	*/
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 900px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h1 {
+  color: #228B22;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #228B22;
+}
+.navbar m {
+	font-size: 12px;
+	padding-left: 10px;
+}
+.searchbar .links {
+  margin-left: 400px;
+  
+}
+.searchbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  background-color: dodgerblue;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.searchbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.searchbar a:hover {
+  color: #228B22;
+}
+.bottom .links {
+  margin-left: 400px;
+  
+}
+.bottom {
+  padding: 20px;
+  align-items: center;
+  background-color: dodgerblue;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.bottom a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.bottom a:hover {
+  color: #228B22;
+}
+
+.bottom img{
+	margin-right: 40px;
+	
+}
+.bottom img:nth-child(5){
+	margin-right: 0px;
+	
+}
+.center{
+	text-align: center!important;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+
+.parent-div {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.left {
+	width: 35%;
+	margin-right: 5%;
+	padding: 10px;
+	display: inline-block;
+}
+
+.right {
+	width: 60%;
+	padding: 10px;
+	background: #228B22;
+	border-radius: 10px;
+	display: inline-block;
+	align-self: flex-start!important;
+}
+
+.desc {
+	width: 100%;
+	padding: 10px;
+	margin-top: calc(5% - 0px);
+}
+.mod img{
+	margin-right: 25px;
+	
+}
+.mod img:nth-child(2){
+	margin-right: 0px;
+	
+}
+.mod h2 {
+  color: #228B22;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
